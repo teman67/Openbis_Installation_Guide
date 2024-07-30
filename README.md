@@ -117,7 +117,7 @@
 
 ---
 
-## Enjoy Using Openbis on Your Host System!
+## Enjoy Using Openbis !
 
 **Well Done!**
 
