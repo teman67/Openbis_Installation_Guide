@@ -115,29 +115,14 @@
       - [Openbis ELN](https://localhost:8443/openbis/webapp/eln-lims/)
     - Log in with the admin username (`admin`) and the password you set during installation.
 
-## Setting Up Port Forwarding in VirtualBox
-
-1. **Configure Network Settings**
-   - Select the Ubuntu virtual machine from the left panel.
-   - Click "Settings."
-   - Go to "Network."
-   - Click "Advanced."
-
-2. **Set Up Port Forwarding**
-   - Click "Port Forwarding."
-   - Add a new port.
-   - Enter the necessary port details and click "OK."
-
-3. **Access Openbis from Host System**
-   - Use the same links as above to access the Openbis interface from the host system:
-     - [Openbis Admin Panel](https://localhost:8443/openbis/webapp/openbis-ng-ui/)
-     - [Openbis ELN](https://localhost:8443/openbis/webapp/eln-lims/)
-
 ---
 
 ## Enjoy Using Openbis on Your Host System!
 
 **Well Done!**
+
 **Gut Gemacht!**
+
 **Bra Gjort!**
+
 **Výborně!**
